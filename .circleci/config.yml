@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   python-job:
     docker:
-      - image: .circleci/python:3.10.1-node-browsers
+      - image: circleci/python:3.10.1-node-browsers
     steps:
       - checkout
       - run:
