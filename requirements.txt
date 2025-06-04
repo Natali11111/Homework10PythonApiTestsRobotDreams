@@ -7,3 +7,4 @@ pytest-steps==1.8.0
 requests==2.32.2
 python-dotenv==1.0.1
 softest==1.2.0.0
+pytest-check==2.5.3
